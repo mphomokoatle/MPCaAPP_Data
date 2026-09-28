@@ -1,0 +1,1001 @@
+Patient_ID,Age,Area,Smoking_Status,Alcohol_Consumption,Family_History_PCa,Race_Ethnicity,Nationality,Diet,Physical_Activity,Obesity,Use_of_Anabolic_Steroids,Risk
+1502,50–59,Rural,Never,Light,Yes,Black African,South African,Mixed,Low,Yes,No,Moderate
+2587,50–59,Urban,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+2654,70+,Urban,Never,Do not consume alcohol,Yes,Black African,South African,Western,Moderate,No,No,Moderate
+1056,50–59,Urban,Never,Moderate,No,Asian,Zimbabwean,Mixed,Moderate,No,No,Low
+706,60–69,Urban,Former,Light,No,Black African,South African,Western,Low,No,No,Low
+107,70+,Rural,Former,Light,Yes,Black African,South African,Mixed,Moderate,No,No,Moderate
+590,50–59,Urban,Never,Do not consume alcohol,No,White,Namibian,Mixed,Moderate,No,No,Low
+2469,70+,Rural,Never,Moderate,Yes,Black African,South African,Mixed,Moderate,No,No,Moderate
+2414,50–59,Urban,Former,Do not consume alcohol,No,Black African,South African,Healthy,Moderate,No,No,Low
+1601,60–69,Urban,Never,Moderate,Yes,Black African,South African,Mixed,Moderate,Yes,No,Moderate
+2465,70+,Rural,Never,Light,No,White,South African,Healthy,Low,Yes,No,Low
+229,50–59,Urban,Never,Light,No,White,Namibian,High-fat,High,No,No,Low
+916,60–69,Rural,Never,Light,No,Black African,South African,Mixed,Low,No,No,Low
+795,50–59,Urban,Current,Heavy,No,Black African,South African,Mixed,Moderate,Yes,No,Moderate
+3022,50–59,Urban,Never,Do not consume alcohol,No,Black African,Botswana,Western,Moderate,No,No,Low
+3544,50–59,Urban,Never,Do not consume alcohol,No,Black African,South African,Healthy,Low,Yes,No,Low
+1074,50–59,Urban,Never,Light,No,Mixed race,South African,Western,Moderate,No,No,Low
+3352,60–69,Urban,Current,Heavy,No,Black African,South African,Mixed,High,No,No,Low
+1745,50–59,Urban,Former,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+1085,60–69,Urban,Never,Do not consume alcohol,No,Mixed race,Namibian,Mixed,Moderate,No,No,Low
+927,50–59,Urban,Never,Light,No,Black African,South African,Healthy,High,No,No,Low
+3050,70+,Rural,Former,Light,No,White,Botswana,Healthy,Moderate,Yes,No,Low
+1118,60–69,Urban,Current,Moderate,Yes,White,South African,Mixed,Low,Yes,No,High
+643,60–69,Rural,Current,Moderate,No,Black African,South African,Western,Moderate,No,No,Low
+4768,60–69,Urban,Never,Moderate,No,Black African,South African,Mixed,High,No,No,Low
+502,70+,Urban,Never,Light,No,Black African,South African,Western,Low,Yes,No,Moderate
+4067,60–69,Urban,Never,Do not consume alcohol,No,White,Mozambican,Healthy,Low,Yes,No,Low
+334,50–59,Urban,Never,Do not consume alcohol,No,Black African,South African,High-fat,High,No,No,Low
+4685,50–59,Rural,Former,Do not consume alcohol,Yes,Black African,South African,Healthy,Moderate,Yes,No,Low
+487,50–59,Rural,Never,Moderate,No,Black African,South African,Mixed,Moderate,Yes,No,Low
+1963,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,High-fat,Low,Yes,No,Moderate
+394,70+,Rural,Never,Heavy,No,Black African,South African,Mixed,Low,Yes,No,High
+4843,70+,Urban,Former,Moderate,No,Black African,South African,High-fat,Low,Yes,No,High
+4867,60–69,Urban,Former,Heavy,No,Black African,Zimbabwean,Western,Low,No,No,Moderate
+1756,70+,Urban,Never,Do not consume alcohol,No,Black African,South African,Healthy,Low,Yes,No,Low
+2516,60–69,Urban,Never,Light,No,Black African,South African,High-fat,Moderate,Yes,No,Low
+3586,50–59,Rural,Never,Light,Yes,White,South African,Mixed,Moderate,No,No,Low
+4316,70+,Rural,Former,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+4967,50–59,Urban,Never,Light,No,Black African,South African,Healthy,Low,Yes,No,Low
+2100,70+,Urban,Former,Heavy,No,Asian,South African,High-fat,Low,No,No,Low
+3600,60–69,Urban,Current,Moderate,No,Asian,South African,Mixed,Moderate,No,No,Low
+4122,60–69,Urban,Current,Moderate,Yes,Black African,South African,Mixed,High,No,No,Moderate
+30,60–69,Urban,Never,Moderate,No,Black African,South African,High-fat,Low,Yes,No,Moderate
+66,70+,Rural,Former,Light,No,Black African,South African,Healthy,High,No,No,Low
+839,70+,Urban,Former,Moderate,No,Black African,South African,Western,Low,Yes,No,High
+3907,70+,Urban,Never,Moderate,No,Black African,Mozambican,Western,High,No,No,Low
+3774,50–59,Urban,Never,Do not consume alcohol,No,Black African,South African,Healthy,Low,Yes,No,Low
+4636,Under 40,Rural,Current,Light,No,Black African,South African,High-fat,Moderate,No,No,Low
+3162,60–69,Urban,Current,Moderate,No,Black African,Namibian,Western,Low,No,No,Moderate
+2660,60–69,Urban,Current,Moderate,No,Black African,South African,Western,Moderate,No,No,Low
+4616,60–69,Rural,Former,Light,No,Black African,Other African,Mixed,Low,Yes,No,Moderate
+4629,70+,Rural,Never,Do not consume alcohol,No,Black African,Namibian,Mixed,Moderate,No,Yes,Low
+2452,50–59,Rural,Never,Moderate,No,Black African,Mozambican,Healthy,Low,No,No,Low
+2847,50–59,Urban,Never,Light,No,White,Namibian,Western,Low,No,No,Low
+1145,60–69,Urban,Former,Do not consume alcohol,No,White,South African,Healthy,Moderate,No,No,Low
+3079,60–69,Urban,Former,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+1104,60–69,Urban,Current,Heavy,No,Black African,Mozambican,Mixed,Moderate,Yes,No,Moderate
+169,60–69,Urban,Current,Heavy,No,Black African,South African,High-fat,Moderate,No,No,Moderate
+1671,60–69,Rural,Never,Light,No,Mixed race,South African,Mixed,Moderate,No,No,Low
+2571,60–69,Urban,Never,Heavy,No,White,Zimbabwean,Western,Low,No,No,Low
+2378,50–59,Urban,Former,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+4396,40–49,Rural,Former,Do not consume alcohol,No,Black African,South African,Healthy,High,No,No,Low
+4258,70+,Urban,Never,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+3863,60–69,Urban,Current,Heavy,No,Black African,South African,Western,Low,No,No,Moderate
+24,40–49,Urban,Current,Moderate,No,Black African,Zimbabwean,Mixed,High,No,No,Low
+2634,60–69,Urban,Never,Heavy,No,Black African,South African,Western,Low,No,No,Low
+3341,70+,Rural,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,Yes,No,Low
+2216,60–69,Urban,Never,Light,No,Black African,Zimbabwean,Healthy,High,No,Yes,Low
+3683,60–69,Urban,Current,Moderate,No,Black African,South African,Mixed,High,No,No,Low
+4725,60–69,Rural,Never,Light,No,Black African,South African,Mixed,High,No,No,Low
+1908,50–59,Urban,Current,Moderate,No,Black African,South African,Healthy,High,Yes,Yes,Moderate
+85,50–59,Rural,Former,Light,Yes,Black African,South African,Healthy,Low,No,No,Low
+228,50–59,Urban,Never,Moderate,Yes,Black African,South African,Western,Low,No,No,Moderate
+297,70+,Urban,Former,Moderate,No,Black African,South African,Healthy,Low,Yes,No,Moderate
+1002,70+,Urban,Never,Do not consume alcohol,No,Black African,South African,Western,Moderate,Yes,No,Low
+2139,50–59,Rural,Never,Light,Yes,Black African,Namibian,Healthy,Low,Yes,No,Moderate
+712,60–69,Urban,Never,Light,No,Mixed race,Namibian,High-fat,Moderate,No,No,Low
+2802,70+,Urban,Former,Light,No,Black African,South African,Healthy,High,No,No,Low
+2528,60–69,Urban,Never,Light,No,White,South African,Western,Moderate,No,No,Low
+3753,70+,Rural,Former,Heavy,No,Black African,South African,High-fat,Low,No,No,High
+3322,50–59,Urban,Never,Moderate,No,Black African,Zimbabwean,Western,Moderate,Yes,No,Low
+3182,60–69,Rural,Current,Light,No,Black African,South African,Mixed,Low,No,No,Low
+4184,50–59,Rural,Current,Do not consume alcohol,No,Black African,South African,Western,Low,No,No,Low
+1616,70+,Urban,Never,Light,No,White,South African,Western,High,No,No,Low
+3025,40–49,Urban,Current,Light,No,Asian,South African,Healthy,High,No,No,Low
+1414,70+,Urban,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+764,60–69,Rural,Never,Light,No,Black African,South African,Healthy,Low,No,No,Low
+656,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+4798,40–49,Urban,Never,Heavy,No,Black African,South African,High-fat,Moderate,No,No,Low
+3850,40–49,Urban,Never,Light,No,Black African,South African,Mixed,Low,Yes,No,Low
+4154,50–59,Urban,Former,Do not consume alcohol,No,Black African,South African,Healthy,High,No,No,Low
+469,50–59,Urban,Never,Moderate,No,Mixed race,Botswana,Mixed,Moderate,No,No,Low
+158,60–69,Urban,Current,Moderate,No,Black African,South African,Healthy,Moderate,No,No,Low
+1296,60–69,Urban,Current,Light,No,Black African,South African,Mixed,Moderate,Yes,No,Moderate
+498,60–69,Rural,Current,Moderate,No,White,Zimbabwean,Western,Low,No,No,Low
+4741,60–69,Urban,Former,Light,No,Black African,South African,Healthy,High,No,No,Low
+2941,70+,Urban,Never,Do not consume alcohol,No,Black African,Namibian,Mixed,Moderate,No,No,Low
+3457,70+,Urban,Former,Moderate,No,Black African,South African,Western,High,No,No,Low
+374,70+,Rural,Current,Moderate,Yes,Black African,South African,Mixed,Moderate,No,Yes,High
+80,40–49,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+1554,50–59,Urban,Former,Light,No,Black African,South African,Mixed,Low,Yes,No,Low
+1670,60–69,Urban,Never,Light,No,Black African,South African,High-fat,Low,No,No,Low
+2132,60–69,Urban,Never,Heavy,No,White,South African,Mixed,Moderate,Yes,No,Low
+4440,60–69,Urban,Never,Light,No,Black African,Other African,Healthy,Low,No,No,Low
+466,60–69,Urban,Never,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+249,70+,Urban,Never,Moderate,No,Black African,South African,High-fat,Low,Yes,No,High
+932,70+,Urban,Current,Heavy,No,Black African,South African,Western,Moderate,No,No,Moderate
+1336,60–69,Urban,Former,Moderate,Yes,Black African,South African,Mixed,High,Yes,No,High
+4525,70+,Rural,Never,Do not consume alcohol,No,Black African,South African,Healthy,High,No,No,Low
+1339,50–59,Urban,Never,Moderate,Yes,Black African,South African,Mixed,Moderate,No,No,Low
+1407,40–49,Rural,Former,Moderate,Yes,Black African,South African,High-fat,Moderate,No,No,Low
+1091,60–69,Urban,Former,Moderate,Yes,Black African,South African,Western,Low,No,No,High
+4210,50–59,Urban,Never,Light,No,Black African,South African,Mixed,High,Yes,No,Low
+743,50–59,Urban,Current,Moderate,No,Black African,South African,Healthy,Moderate,No,No,Low
+2324,70+,Rural,Never,Light,No,Black African,Other African,High-fat,Moderate,Yes,No,Moderate
+3602,50–59,Urban,Current,Heavy,No,White,South African,High-fat,Moderate,Yes,No,Moderate
+2124,60–69,Urban,Former,Light,Yes,Black African,South African,Healthy,Moderate,No,No,Low
+2095,70+,Urban,Current,Light,No,Black African,Mozambican,Healthy,High,No,Yes,Low
+241,50–59,Rural,Never,Moderate,No,Black African,South African,High-fat,Moderate,No,No,Low
+2352,60–69,Urban,Never,Moderate,Yes,Mixed race,South African,Mixed,Moderate,No,No,Low
+1371,60–69,Urban,Former,Do not consume alcohol,No,Black African,South African,High-fat,Low,No,No,Low
+1058,70+,Urban,Never,Moderate,No,White,South African,Western,Moderate,No,No,Low
+4817,70+,Urban,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+200,50–59,Urban,Current,Do not consume alcohol,No,White,South African,Healthy,Moderate,No,No,Low
+2281,40–49,Rural,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+4750,60–69,Urban,Never,Moderate,No,White,South African,Mixed,Moderate,Yes,No,Low
+2221,50–59,Urban,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+4772,50–59,Urban,Never,Light,No,Black African,South African,Healthy,High,No,No,Low
+2820,40–49,Urban,Never,Light,No,White,South African,Mixed,Moderate,No,No,Low
+3151,70+,Urban,Never,Moderate,No,Black African,Other African,Mixed,Moderate,No,No,Low
+4257,50–59,Urban,Former,Light,No,Black African,South African,Healthy,High,No,No,Low
+3108,60–69,Urban,Never,Light,No,White,South African,Western,Moderate,Yes,No,Low
+1974,60–69,Urban,Former,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+1376,60–69,Urban,Never,Light,No,Black African,South African,Healthy,High,No,No,Low
+3969,70+,Urban,Former,Moderate,Yes,Black African,South African,Mixed,Moderate,No,No,Moderate
+4063,50–59,Urban,Current,Moderate,No,Black African,Zimbabwean,Mixed,Moderate,No,No,Low
+4446,50–59,Urban,Never,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+3558,60–69,Rural,Former,Moderate,No,Black African,South African,Western,Low,No,No,Low
+965,60–69,Urban,Never,Do not consume alcohol,No,Asian,South African,Healthy,Moderate,No,No,Low
+180,70+,Urban,Never,Light,No,Black African,South African,Healthy,High,No,No,Low
+3699,70+,Urban,Former,Heavy,No,Black African,South African,High-fat,Low,Yes,No,High
+3822,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+4879,50–59,Rural,Former,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+3900,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+4488,50–59,Urban,Never,Light,No,Black African,South African,Mixed,Moderate,Yes,No,Low
+3239,60–69,Urban,Former,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+2975,70+,Urban,Former,Light,No,Black African,Zimbabwean,Healthy,High,No,No,Low
+3581,70+,Urban,Former,Moderate,No,Black African,South African,Western,Low,Yes,No,High
+2888,70+,Urban,Current,Do not consume alcohol,Yes,Black African,Other African,Healthy,Moderate,Yes,No,High
+2576,50–59,Rural,Current,Do not consume alcohol,Yes,Black African,South African,Mixed,Moderate,No,No,Low
+1420,60–69,Rural,Former,Do not consume alcohol,No,White,South African,Healthy,High,No,Yes,Low
+3908,40–49,Urban,Never,Heavy,No,Asian,South African,High-fat,Low,No,No,Low
+4674,50–59,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,Yes,No,Low
+4903,50–59,Urban,Never,Do not consume alcohol,Yes,Black African,South African,Mixed,High,Yes,No,Low
+1861,60–69,Urban,Never,Light,No,Mixed race,South African,Healthy,High,No,No,Low
+9,50–59,Urban,Never,Do not consume alcohol,No,Black African,South African,Healthy,High,No,No,Low
+2895,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+2848,50–59,Urban,Never,Do not consume alcohol,No,Black African,Other African,Mixed,Moderate,Yes,Yes,Low
+3665,70+,Urban,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+145,60–69,Urban,Never,Heavy,No,Black African,South African,Western,Low,Yes,No,Moderate
+2105,50–59,Urban,Current,Heavy,No,Black African,South African,High-fat,Low,Yes,No,High
+3144,50–59,Urban,Never,Light,No,Black African,Zimbabwean,Mixed,Low,No,No,Low
+842,70+,Rural,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+1129,60–69,Urban,Current,Moderate,Yes,Black African,South African,Mixed,High,No,No,Moderate
+152,60–69,Urban,Never,Light,No,Black African,South African,Healthy,Moderate,No,No,Low
+3592,60–69,Rural,Never,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+1053,60–69,Urban,Current,Moderate,No,Asian,South African,High-fat,Moderate,Yes,No,Low
+1591,50–59,Rural,Never,Light,No,Black African,South African,Western,Moderate,No,No,Low
+3009,70+,Urban,Former,Do not consume alcohol,No,Mixed race,South African,Mixed,High,No,No,Low
+2030,50–59,Rural,Former,Moderate,No,Black African,South African,Healthy,Moderate,No,No,Low
+3419,50–59,Urban,Former,Moderate,No,Black African,Other African,Mixed,High,No,No,Low
+1808,60–69,Urban,Current,Light,Yes,Black African,South African,Mixed,High,Yes,No,High
+2697,70+,Urban,Never,Light,No,White,Namibian,Healthy,High,Yes,No,Low
+3040,60–69,Urban,Former,Light,No,White,South African,Mixed,Moderate,No,No,Low
+473,40–49,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Low,No,No,Low
+3290,60–69,Urban,Never,Light,No,Black African,South African,Healthy,High,Yes,Yes,Low
+4075,50–59,Rural,Never,Do not consume alcohol,No,Black African,South African,Healthy,Moderate,No,No,Low
+3497,70+,Urban,Current,Light,No,White,South African,Western,Low,Yes,No,Moderate
+280,50–59,Rural,Never,Light,No,Black African,South African,Healthy,Moderate,No,No,Low
+1742,60–69,Urban,Former,Light,Yes,Black African,South African,Healthy,Moderate,Yes,No,Moderate
+4625,60–69,Urban,Current,Heavy,No,Black African,Zimbabwean,Western,Moderate,No,No,Moderate
+2887,50–59,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+1942,50–59,Urban,Former,Light,No,Black African,South African,Mixed,Low,Yes,No,Low
+101,40–49,Urban,Never,Moderate,No,Black African,South African,Healthy,Moderate,No,No,Low
+2805,60–69,Urban,Former,Moderate,No,Black African,Other African,Mixed,Moderate,No,No,Low
+3571,60–69,Rural,Current,Light,Yes,Black African,South African,Western,Low,Yes,No,High
+3685,60–69,Urban,Never,Heavy,No,Black African,South African,Western,Moderate,No,No,Low
+3662,50–59,Rural,Current,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+531,60–69,Urban,Never,Light,No,Black African,South African,Mixed,Low,No,No,Low
+1887,50–59,Urban,Never,Light,No,Black African,Zimbabwean,Healthy,Moderate,No,No,Low
+682,50–59,Urban,Never,Heavy,No,White,South African,Western,Low,Yes,No,Low
+3795,60–69,Rural,Never,Do not consume alcohol,No,Black African,South African,Western,Moderate,No,No,Low
+3945,50–59,Urban,Former,Do not consume alcohol,No,Asian,South African,Healthy,High,No,Yes,Low
+4667,50–59,Urban,Never,Moderate,No,Black African,South African,Healthy,High,No,No,Low
+2019,60–69,Urban,Never,Moderate,No,Black African,South African,Western,Low,No,No,Low
+1097,60–69,Urban,Never,Do not consume alcohol,No,White,South African,Mixed,Moderate,No,No,Low
+830,60–69,Urban,Current,Heavy,No,Black African,Other African,Western,Low,No,No,Moderate
+2806,40–49,Urban,Current,Moderate,Yes,Black African,South African,Mixed,Moderate,No,No,Low
+3830,60–69,Urban,Current,Heavy,No,Black African,South African,High-fat,Low,No,No,High
+4382,60–69,Urban,Never,Light,Yes,Black African,South African,Healthy,High,No,No,Low
+3892,60–69,Rural,Former,Moderate,No,Black African,South African,Western,Moderate,Yes,No,Moderate
+765,70+,Urban,Never,Do not consume alcohol,No,Black African,Zimbabwean,Mixed,Moderate,No,No,Low
+2768,60–69,Rural,Former,Moderate,No,Black African,South African,Western,High,Yes,No,Low
+4329,70+,Urban,Current,Moderate,No,Black African,Other African,Healthy,High,No,No,Low
+3296,50–59,Rural,Current,Moderate,No,Black African,South African,Western,Moderate,No,No,Low
+2195,60–69,Rural,Never,Moderate,Yes,White,South African,High-fat,Low,No,No,Moderate
+2358,60–69,Urban,Current,Moderate,No,Black African,South African,Mixed,High,No,No,Low
+3426,70+,Urban,Never,Light,No,White,Other African,Mixed,Moderate,No,No,Low
+3980,50–59,Urban,Never,Light,No,White,South African,Mixed,Moderate,No,No,Low
+912,60–69,Rural,Current,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+3146,60–69,Urban,Never,Do not consume alcohol,Yes,Black African,South African,Healthy,Moderate,No,No,Low
+1000,60–69,Urban,Current,Light,Yes,Black African,Other African,High-fat,Moderate,Yes,No,High
+3654,50–59,Rural,Current,Light,No,White,Mozambican,Mixed,Low,No,No,Low
+2484,50–59,Urban,Current,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+4077,50–59,Urban,Current,Heavy,No,White,South African,Western,Low,No,No,Low
+2371,60–69,Rural,Never,Do not consume alcohol,No,Black African,South African,Healthy,Moderate,Yes,No,Low
+4839,70+,Rural,Never,Do not consume alcohol,Yes,Mixed race,Other African,Healthy,High,No,No,Low
+34,50–59,Rural,Never,Moderate,No,White,South African,Mixed,High,Yes,No,Low
+3790,70+,Rural,Current,Heavy,No,Black African,South African,High-fat,Moderate,No,No,Moderate
+1021,60–69,Rural,Never,Light,No,White,South African,Mixed,Moderate,Yes,No,Low
+1648,70+,Urban,Never,Light,No,White,South African,Mixed,High,No,No,Low
+734,40–49,Urban,Never,Light,No,Black African,Zimbabwean,Mixed,High,No,No,Low
+4583,60–69,Urban,Current,Moderate,Yes,White,South African,Mixed,Low,Yes,No,High
+3275,50–59,Rural,Former,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+1621,60–69,Urban,Never,Light,No,Mixed race,South African,Western,High,No,No,Low
+3136,60–69,Rural,Current,Heavy,No,Mixed race,Other African,Western,Low,No,No,Low
+2690,60–69,Urban,Never,Do not consume alcohol,Yes,Black African,South African,Healthy,Moderate,No,No,Low
+2708,60–69,Urban,Never,Heavy,No,Black African,South African,Western,Low,Yes,No,Moderate
+298,60–69,Urban,Never,Light,No,White,South African,High-fat,Low,No,No,Low
+2340,50–59,Urban,Never,Light,No,Black African,South African,Western,Moderate,No,Yes,Low
+654,50–59,Urban,Former,Moderate,No,Asian,Other African,Mixed,Moderate,No,No,Low
+3775,40–49,Urban,Former,Do not consume alcohol,Yes,Black African,Mozambican,Healthy,High,No,No,Low
+1256,50–59,Rural,Current,Light,Yes,Black African,South African,Healthy,Moderate,No,No,Low
+4521,50–59,Rural,Never,Light,No,White,South African,High-fat,Low,Yes,No,Low
+231,50–59,Rural,Former,Moderate,No,Black African,South African,Mixed,High,No,No,Low
+3277,70+,Rural,Never,Light,No,Black African,South African,Mixed,Moderate,Yes,No,Low
+3231,50–59,Urban,Never,Light,No,Mixed race,South African,Healthy,High,Yes,Yes,Low
+692,70+,Rural,Never,Do not consume alcohol,No,Black African,South African,Healthy,High,Yes,No,Low
+2755,60–69,Urban,Never,Moderate,Yes,Asian,South African,Mixed,Low,No,No,Low
+4864,40–49,Rural,Never,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+970,40–49,Rural,Never,Moderate,Yes,Black African,South African,Mixed,High,No,No,Low
+634,50–59,Urban,Former,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+4093,60–69,Urban,Never,Light,No,White,South African,Healthy,Moderate,Yes,No,Low
+4078,40–49,Urban,Never,Moderate,Yes,Black African,South African,Western,Low,No,No,Low
+1322,60–69,Urban,Never,Do not consume alcohol,Yes,Black African,Namibian,Mixed,Low,Yes,No,High
+1832,60–69,Rural,Current,Heavy,Yes,Black African,South African,High-fat,Low,Yes,No,High
+2179,70+,Urban,Never,Do not consume alcohol,No,Black African,Zimbabwean,Healthy,Moderate,Yes,No,Low
+1418,60–69,Urban,Former,Heavy,No,Black African,South African,High-fat,Low,Yes,No,High
+1783,40–49,Urban,Former,Moderate,No,Asian,South African,Healthy,High,No,No,Low
+4716,60–69,Urban,Never,Light,No,Black African,South African,Mixed,High,No,No,Low
+4702,40–49,Urban,Never,Light,Yes,White,South African,Mixed,Low,Yes,No,Low
+4119,50–59,Rural,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+1653,60–69,Rural,Never,Light,No,Black African,South African,Healthy,Moderate,No,No,Low
+1484,50–59,Urban,Current,Moderate,No,Black African,South African,Western,Moderate,No,No,Low
+2276,50–59,Rural,Former,Moderate,No,White,South African,Mixed,High,No,No,Low
+878,60–69,Urban,Former,Moderate,No,Mixed race,South African,Mixed,Low,No,No,Low
+3526,50–59,Urban,Never,Do not consume alcohol,No,Black African,Mozambican,High-fat,Moderate,No,No,Low
+2017,60–69,Rural,Never,Light,Yes,White,South African,Mixed,Moderate,No,No,Low
+427,50–59,Urban,Never,Moderate,Yes,Black African,South African,Mixed,High,No,No,Low
+627,50–59,Rural,Never,Do not consume alcohol,No,Black African,South African,Western,Moderate,No,No,Low
+1590,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Low,Yes,No,Low
+2224,60–69,Rural,Never,Do not consume alcohol,No,Black African,Mozambican,Mixed,Moderate,No,No,Low
+2218,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Healthy,High,No,No,Low
+4484,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Western,Moderate,No,No,Low
+1486,70+,Urban,Former,Moderate,No,Black African,South African,Healthy,Moderate,No,No,Low
+1740,70+,Urban,Former,Light,No,Black African,Zimbabwean,Mixed,Moderate,No,No,Low
+2481,50–59,Urban,Never,Do not consume alcohol,Yes,Black African,South African,Healthy,Moderate,No,No,Low
+2585,70+,Urban,Former,Light,No,Black African,South African,Western,Moderate,Yes,No,Moderate
+2894,60–69,Rural,Never,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+150,60–69,Urban,Current,Light,No,Black African,South African,Healthy,High,No,No,Low
+677,50–59,Urban,Former,Light,Yes,White,South African,Healthy,High,No,No,Low
+1262,60–69,Urban,Current,Heavy,No,Black African,South African,High-fat,Moderate,No,No,Moderate
+4918,50–59,Rural,Former,Light,No,Black African,South African,High-fat,Low,No,No,Low
+13,60–69,Urban,Current,Heavy,No,Black African,South African,Western,Moderate,No,No,Moderate
+1834,60–69,Urban,Former,Do not consume alcohol,No,Black African,South African,Healthy,High,No,No,Low
+3249,60–69,Rural,Never,Do not consume alcohol,No,Black African,South African,Healthy,Low,Yes,No,Low
+1492,70+,Urban,Current,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+2728,70+,Urban,Former,Do not consume alcohol,No,Black African,South African,Healthy,Moderate,No,No,Low
+3687,70+,Rural,Former,Light,No,Black African,South African,Healthy,Moderate,No,No,Low
+1425,50–59,Urban,Former,Moderate,No,Black African,South African,Mixed,High,No,No,Low
+4606,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Healthy,High,No,Yes,Low
+4596,60–69,Urban,Never,Light,No,Black African,South African,Healthy,High,No,No,Low
+732,50–59,Urban,Current,Moderate,No,Mixed race,Mozambican,Healthy,High,No,No,Low
+1232,40–49,Urban,Never,Light,No,Black African,Botswana,Healthy,Moderate,No,Yes,Low
+1635,60–69,Rural,Never,Light,No,Black African,South African,Mixed,High,Yes,No,Low
+3937,70+,Rural,Never,Do not consume alcohol,No,Black African,South African,Healthy,High,No,No,Low
+1211,50–59,Rural,Current,Moderate,No,Black African,South African,Western,Moderate,No,No,Low
+3269,60–69,Urban,Current,Heavy,Yes,Black African,Other African,Mixed,Moderate,No,No,High
+1935,70+,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Low,Yes,No,Moderate
+554,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+492,70+,Urban,Former,Do not consume alcohol,No,Asian,South African,Mixed,High,No,No,Low
+2963,50–59,Rural,Former,Moderate,No,Black African,South African,Mixed,Low,No,No,Low
+2330,70+,Urban,Current,Moderate,No,White,South African,Mixed,Moderate,No,No,Low
+2196,50–59,Urban,Current,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+3065,40–49,Rural,Current,Do not consume alcohol,No,Black African,South African,Healthy,Moderate,No,No,Low
+658,60–69,Urban,Never,Light,Yes,Black African,South African,Mixed,High,No,No,Low
+2375,70+,Rural,Never,Moderate,No,Black African,Zimbabwean,High-fat,Moderate,No,No,Low
+2226,70+,Rural,Current,Heavy,Yes,Black African,South African,High-fat,Moderate,Yes,No,High
+4265,60–69,Urban,Never,Light,No,Black African,Zimbabwean,Healthy,Moderate,No,No,Low
+1171,70+,Urban,Former,Light,No,Black African,South African,Healthy,Moderate,No,No,Low
+133,50–59,Rural,Former,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+472,40–49,Urban,Never,Light,No,Black African,Mozambican,Western,Low,Yes,No,Low
+3226,50–59,Urban,Current,Light,No,Black African,South African,Mixed,Moderate,No,Yes,Low
+1406,50–59,Urban,Never,Light,No,Black African,South African,Healthy,Low,Yes,No,Low
+2877,50–59,Urban,Former,Moderate,No,Black African,South African,High-fat,Low,Yes,No,Moderate
+4505,60–69,Rural,Current,Heavy,No,Black African,South African,Western,Low,Yes,No,High
+4693,70+,Rural,Never,Moderate,Yes,Black African,South African,Healthy,Low,Yes,No,High
+2827,70+,Rural,Former,Moderate,No,Black African,South African,Mixed,Low,No,No,Low
+288,60–69,Urban,Former,Do not consume alcohol,No,Black African,Namibian,Mixed,Low,Yes,No,Low
+1870,50–59,Urban,Former,Moderate,No,White,South African,Mixed,High,No,No,Low
+3115,60–69,Urban,Former,Light,No,White,South African,Western,High,No,No,Low
+3626,50–59,Urban,Former,Do not consume alcohol,Yes,Black African,South African,Mixed,Moderate,Yes,No,Moderate
+2313,60–69,Rural,Never,Moderate,No,Black African,South African,Western,Moderate,No,No,Low
+4924,70+,Urban,Never,Do not consume alcohol,Yes,Black African,Other African,Mixed,Moderate,No,No,Low
+1619,50–59,Rural,Never,Moderate,No,Black African,Botswana,Mixed,Moderate,No,Yes,Low
+995,50–59,Urban,Current,Do not consume alcohol,No,Black African,South African,Western,Low,No,No,Low
+1804,40–49,Urban,Current,Do not consume alcohol,No,Black African,Botswana,Western,Low,No,No,Low
+2643,50–59,Urban,Former,Moderate,No,Black African,South African,Healthy,Low,No,No,Low
+4803,40–49,Rural,Former,Light,No,Asian,South African,Mixed,Moderate,No,No,Low
+3536,70+,Urban,Current,Light,No,Black African,South African,Healthy,High,Yes,No,Low
+4832,50–59,Urban,Never,Light,Yes,Mixed race,South African,Healthy,High,No,Yes,Low
+3912,60–69,Rural,Never,Do not consume alcohol,No,Black African,South African,Western,Low,Yes,No,Low
+2108,60–69,Urban,Current,Moderate,No,Black African,South African,Western,High,No,Yes,Moderate
+3045,70+,Urban,Never,Light,No,Asian,South African,Mixed,Moderate,No,No,Low
+417,70+,Urban,Former,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+978,Under 40,Urban,Never,Do not consume alcohol,Yes,Black African,South African,High-fat,Low,No,No,Low
+2418,60–69,Urban,Never,Light,No,Black African,South African,High-fat,Moderate,Yes,No,Low
+506,50–59,Urban,Current,Light,No,Black African,Zimbabwean,Mixed,High,No,No,Low
+4153,60–69,Urban,Never,Do not consume alcohol,Yes,Black African,South African,High-fat,Low,No,No,Moderate
+4256,70+,Urban,Former,Light,No,Black African,Zimbabwean,Mixed,Moderate,No,No,Low
+3942,70+,Rural,Former,Moderate,No,Black African,South African,High-fat,Moderate,Yes,No,High
+415,60–69,Urban,Never,Light,No,Black African,South African,Healthy,High,Yes,No,Low
+4149,50–59,Urban,Never,Light,No,Black African,Zimbabwean,Healthy,Low,Yes,No,Low
+1184,40–49,Urban,Former,Light,No,Black African,South African,Mixed,Moderate,No,Yes,Low
+486,40–49,Urban,Former,Light,No,Black African,South African,Western,Moderate,Yes,No,Low
+894,70+,Urban,Never,Heavy,No,Black African,South African,Western,Low,Yes,No,High
+806,60–69,Urban,Never,Do not consume alcohol,No,Asian,Mozambican,Western,Low,Yes,No,Low
+556,50–59,Rural,Never,Moderate,No,Black African,South African,Mixed,High,No,No,Low
+3826,70+,Urban,Former,Light,No,Black African,Mozambican,Mixed,Low,No,No,Low
+1198,60–69,Urban,Former,Light,Yes,Black African,Namibian,High-fat,Low,Yes,No,High
+4254,50–59,Urban,Never,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+4059,70+,Urban,Never,Light,No,White,South African,Mixed,Low,Yes,No,Low
+1294,70+,Rural,Never,Do not consume alcohol,No,Black African,Botswana,Mixed,Moderate,No,No,Low
+2222,50–59,Urban,Never,Light,No,Black African,South African,Mixed,High,No,Yes,Low
+3505,50–59,Rural,Never,Light,No,Black African,Other African,Western,Low,No,No,Low
+3655,60–69,Urban,Never,Light,No,Asian,South African,Healthy,High,No,No,Low
+4759,50–59,Urban,Never,Moderate,No,White,Namibian,Healthy,Moderate,No,No,Low
+3007,60–69,Rural,Former,Do not consume alcohol,No,Black African,South African,Mixed,Low,No,No,Low
+2094,50–59,Urban,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+2188,60–69,Urban,Never,Do not consume alcohol,No,White,Mozambican,Mixed,Moderate,No,No,Low
+3037,60–69,Urban,Never,Light,Yes,Black African,South African,Healthy,Moderate,No,No,Low
+3919,70+,Rural,Never,Moderate,No,Black African,South African,Healthy,Moderate,No,No,Low
+1273,50–59,Urban,Former,Light,No,White,South African,Mixed,Moderate,No,No,Low
+291,60–69,Rural,Current,Heavy,No,Black African,South African,Mixed,Moderate,No,No,Low
+4828,70+,Rural,Never,Do not consume alcohol,No,Black African,South African,Mixed,Low,Yes,No,Moderate
+253,70+,Urban,Former,Heavy,No,Black African,South African,High-fat,Low,Yes,No,High
+3246,70+,Urban,Never,Light,Yes,Black African,South African,Healthy,High,No,No,Low
+351,60–69,Urban,Never,Heavy,No,Black African,South African,Mixed,Moderate,No,No,Low
+1188,60–69,Rural,Never,Light,No,Black African,Zimbabwean,Western,Low,Yes,No,Moderate
+1962,60–69,Urban,Never,Light,No,Black African,Mozambican,Healthy,Moderate,No,No,Low
+423,60–69,Rural,Never,Moderate,No,White,South African,Mixed,Moderate,No,No,Low
+91,60–69,Rural,Never,Light,No,Black African,South African,Western,Low,No,No,Low
+3730,40–49,Urban,Never,Do not consume alcohol,Yes,Black African,South African,High-fat,Low,No,No,Low
+2237,60–69,Urban,Current,Moderate,No,Asian,South African,High-fat,Moderate,Yes,No,Low
+671,70+,Urban,Former,Heavy,No,Black African,South African,Western,Low,No,No,Moderate
+3041,60–69,Rural,Former,Light,No,White,South African,Healthy,Moderate,Yes,No,Low
+27,50–59,Urban,Never,Moderate,No,Black African,Zimbabwean,Mixed,Moderate,No,No,Low
+430,40–49,Rural,Current,Do not consume alcohol,Yes,Black African,South African,Healthy,High,No,No,Low
+684,60–69,Rural,Never,Moderate,No,Black African,South African,Healthy,Moderate,Yes,No,Low
+4464,70+,Urban,Current,Heavy,No,Black African,South African,Western,Moderate,No,No,Moderate
+3946,70+,Urban,Never,Light,No,White,Namibian,Mixed,Moderate,No,No,Low
+3524,70+,Urban,Former,Light,No,White,South African,Mixed,Moderate,No,No,Low
+1542,70+,Urban,Former,Light,No,Black African,South African,Healthy,Moderate,No,No,Low
+2032,50–59,Rural,Never,Light,No,White,South African,Mixed,Moderate,No,No,Low
+2233,40–49,Urban,Former,Moderate,No,Asian,South African,High-fat,High,No,No,Low
+4121,50–59,Urban,Current,Moderate,No,White,South African,Western,Low,Yes,No,Moderate
+3236,60–69,Urban,Never,Heavy,No,Asian,Other African,Healthy,Moderate,No,No,Low
+255,40–49,Urban,Former,Moderate,No,Black African,South African,High-fat,Moderate,Yes,No,Low
+1030,50–59,Urban,Never,Light,Yes,Black African,Other African,Healthy,High,Yes,No,Low
+4393,60–69,Urban,Never,Do not consume alcohol,Yes,Black African,Other African,Healthy,Moderate,Yes,Yes,High
+3801,40–49,Urban,Never,Moderate,No,Black African,South African,High-fat,Moderate,No,Yes,Low
+4311,60–69,Rural,Current,Light,No,White,South African,Mixed,High,No,No,Low
+2510,50–59,Rural,Never,Light,Yes,Black African,Zimbabwean,Mixed,High,No,No,Low
+2293,60–69,Urban,Never,Moderate,No,White,Other African,High-fat,Low,Yes,No,Moderate
+1324,60–69,Urban,Never,Light,No,Black African,Namibian,Healthy,High,Yes,No,Low
+1551,60–69,Urban,Former,Do not consume alcohol,Yes,Black African,South African,Mixed,Moderate,No,No,Low
+4648,60–69,Urban,Current,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+316,60–69,Rural,Former,Light,Yes,Black African,South African,Healthy,Low,No,No,Moderate
+1243,50–59,Rural,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+2451,50–59,Urban,Former,Moderate,No,Black African,South African,High-fat,Low,Yes,No,Moderate
+1579,50–59,Urban,Former,Moderate,No,White,South African,Mixed,Moderate,No,No,Low
+4626,70+,Urban,Current,Heavy,Yes,Black African,South African,Mixed,Moderate,No,No,High
+3117,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+70,50–59,Rural,Current,Heavy,No,Black African,Botswana,Western,Low,No,No,Moderate
+860,60–69,Urban,Former,Light,No,Black African,South African,Mixed,High,No,No,Low
+2754,60–69,Urban,Former,Light,No,Black African,South African,Mixed,Low,No,No,Low
+1633,50–59,Urban,Never,Light,Yes,Black African,South African,High-fat,Low,Yes,No,High
+1651,60–69,Rural,Never,Light,No,Asian,South African,Mixed,High,No,No,Low
+3861,50–59,Rural,Never,Light,Yes,White,South African,Mixed,High,No,No,Low
+3107,50–59,Urban,Never,Light,No,Black African,South African,Mixed,Low,No,No,Low
+1075,70+,Urban,Former,Moderate,No,Black African,South African,High-fat,Low,No,No,Moderate
+4002,60–69,Urban,Former,Moderate,No,Black African,South African,Mixed,Moderate,Yes,No,Low
+788,60–69,Rural,Former,Moderate,No,Mixed race,South African,Mixed,Moderate,Yes,No,Low
+2606,60–69,Urban,Current,Light,No,Black African,South African,Western,Low,No,No,Low
+3631,60–69,Rural,Never,Do not consume alcohol,No,Black African,South African,Mixed,Low,No,No,Low
+2122,70+,Urban,Current,Do not consume alcohol,No,Black African,South African,Western,Moderate,No,No,Low
+1875,70+,Urban,Never,Light,No,Black African,South African,Healthy,Low,No,No,Low
+812,50–59,Urban,Former,Moderate,No,Black African,South African,Healthy,Low,No,No,Low
+388,70+,Urban,Former,Light,No,Black African,South African,Mixed,Moderate,Yes,No,Moderate
+2883,50–59,Rural,Current,Light,No,Black African,South African,Western,Low,No,No,Low
+1176,60–69,Rural,Never,Light,No,Mixed race,South African,Healthy,Moderate,Yes,No,Low
+3198,40–49,Rural,Former,Moderate,No,Black African,Botswana,Mixed,High,No,No,Low
+2624,70+,Rural,Never,Do not consume alcohol,No,Black African,Zimbabwean,Healthy,Moderate,No,No,Low
+1352,40–49,Urban,Never,Do not consume alcohol,No,Black African,Zimbabwean,Mixed,Moderate,Yes,No,Low
+411,70+,Urban,Never,Light,No,Black African,Zimbabwean,Mixed,High,No,No,Low
+4213,70+,Urban,Former,Do not consume alcohol,No,Black African,Namibian,High-fat,Low,Yes,No,High
+110,60–69,Urban,Never,Heavy,No,White,Mozambican,Mixed,Low,No,No,Low
+4996,60–69,Urban,Never,Moderate,No,Black African,South African,Mixed,High,No,No,Low
+3430,70+,Urban,Current,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+2810,50–59,Urban,Never,Heavy,No,Black African,South African,Healthy,Low,Yes,No,Low
+2595,70+,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Low,No,No,Low
+2837,70+,Urban,Never,Light,No,Black African,South African,Healthy,Low,No,No,Low
+2373,60–69,Urban,Never,Moderate,No,Mixed race,Other African,Western,Low,No,No,Low
+1236,70+,Urban,Current,Do not consume alcohol,Yes,White,Other African,Western,Low,Yes,No,High
+2147,40–49,Rural,Former,Do not consume alcohol,No,Black African,Botswana,Healthy,Moderate,No,Yes,Low
+4976,40–49,Urban,Former,Heavy,No,White,Botswana,High-fat,High,Yes,Yes,Low
+600,60–69,Urban,Never,Light,No,Black African,South African,Western,Low,No,No,Low
+1435,60–69,Urban,Never,Light,No,Black African,South African,Mixed,High,No,No,Low
+4997,70+,Rural,Never,Light,No,Black African,South African,Healthy,Moderate,No,No,Low
+539,70+,Rural,Never,Do not consume alcohol,No,White,South African,Healthy,High,Yes,Yes,Low
+722,40–49,Urban,Current,Moderate,No,Black African,Mozambican,Mixed,Moderate,Yes,No,Low
+4411,50–59,Rural,Never,Do not consume alcohol,No,Black African,South African,Healthy,Low,No,No,Low
+1873,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+2846,50–59,Urban,Former,Moderate,No,Black African,South African,Mixed,High,Yes,No,Low
+2054,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,High,No,No,Low
+2908,50–59,Rural,Never,Light,No,Black African,South African,Healthy,Moderate,No,No,Low
+2255,50–59,Rural,Never,Moderate,No,Black African,South African,Healthy,High,Yes,Yes,Low
+3913,70+,Rural,Never,Do not consume alcohol,No,Black African,South African,Mixed,Low,Yes,No,Moderate
+178,70+,Rural,Never,Light,Yes,Black African,South African,Mixed,Moderate,No,No,Moderate
+2891,60–69,Urban,Former,Light,No,Black African,South African,Western,High,No,No,Low
+3674,70+,Rural,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+81,60–69,Urban,Never,Do not consume alcohol,No,White,Other African,Mixed,High,No,No,Low
+2562,60–69,Urban,Former,Moderate,No,Black African,South African,Western,Low,Yes,No,Moderate
+1724,60–69,Urban,Never,Light,Yes,Black African,South African,Mixed,Moderate,No,No,Low
+1618,50–59,Urban,Never,Do not consume alcohol,No,Black African,South African,Healthy,High,No,No,Low
+1655,60–69,Urban,Never,Light,No,White,South African,Mixed,Moderate,No,No,Low
+2329,70+,Urban,Former,Light,No,Black African,South African,Mixed,High,No,No,Low
+4614,50–59,Rural,Never,Do not consume alcohol,Yes,Black African,South African,Healthy,Moderate,No,No,Low
+222,40–49,Urban,Never,Light,No,White,South African,Healthy,Moderate,No,No,Low
+94,60–69,Urban,Never,Light,No,Black African,South African,Healthy,Moderate,No,No,Low
+2610,70+,Rural,Former,Moderate,No,White,Other African,Mixed,High,No,Yes,Low
+3383,60–69,Urban,Never,Light,No,Black African,Namibian,Mixed,Moderate,No,No,Low
+4416,60–69,Urban,Former,Light,No,White,South African,Mixed,Moderate,Yes,No,Low
+1398,50–59,Rural,Never,Do not consume alcohol,Yes,Black African,South African,Western,Low,Yes,No,Moderate
+4687,50–59,Rural,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+1293,60–69,Rural,Former,Do not consume alcohol,Yes,Black African,South African,Healthy,High,No,No,Low
+2165,70+,Urban,Former,Light,Yes,Black African,South African,Western,Low,No,No,High
+2940,50–59,Urban,Former,Moderate,No,Black African,South African,Healthy,Moderate,No,No,Low
+3669,60–69,Urban,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+813,70+,Urban,Former,Moderate,No,Black African,South African,Mixed,Low,Yes,No,Moderate
+1259,50–59,Urban,Never,Light,No,Black African,South African,Healthy,Low,No,No,Low
+890,70+,Rural,Former,Do not consume alcohol,Yes,Black African,South African,Mixed,Low,Yes,No,High
+1452,70+,Rural,Current,Moderate,No,Mixed race,South African,Mixed,Moderate,No,No,Low
+3317,60–69,Urban,Never,Light,No,Black African,South African,Healthy,Moderate,No,No,Low
+2560,70+,Urban,Never,Light,No,Black African,South African,Healthy,Moderate,Yes,No,Low
+3575,50–59,Urban,Former,Light,No,Black African,South African,Mixed,Low,No,No,Low
+2681,70+,Urban,Never,Light,No,Asian,South African,Western,Low,Yes,No,Low
+4652,60–69,Urban,Never,Light,No,Black African,South African,High-fat,Low,No,No,Low
+4812,40–49,Urban,Never,Heavy,No,Black African,South African,Mixed,Low,No,No,Low
+4680,60–69,Rural,Never,Light,No,Black African,South African,Healthy,High,No,No,Low
+2965,70+,Urban,Current,Moderate,No,Black African,South African,Western,Moderate,No,No,Moderate
+2673,60–69,Urban,Never,Light,No,Black African,South African,Mixed,Low,No,No,Low
+562,70+,Urban,Never,Moderate,No,White,South African,Healthy,Moderate,No,No,Low
+2779,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,Yes,No,Low
+2949,60–69,Rural,Never,Do not consume alcohol,No,Black African,South African,Western,Moderate,No,No,Low
+2818,60–69,Urban,Former,Light,No,Black African,South African,Healthy,Moderate,No,No,Low
+2759,50–59,Urban,Former,Do not consume alcohol,No,Black African,South African,Western,Moderate,Yes,No,Low
+1757,60–69,Urban,Never,Moderate,No,Black African,South African,Healthy,Moderate,No,No,Low
+725,60–69,Rural,Never,Light,No,Asian,South African,Healthy,Moderate,No,No,Low
+220,60–69,Rural,Never,Light,Yes,Black African,South African,Mixed,Low,No,No,Moderate
+4140,60–69,Urban,Current,Heavy,No,Black African,South African,Western,Low,No,No,Moderate
+3958,60–69,Urban,Former,Heavy,No,Black African,Namibian,Mixed,Moderate,No,No,Low
+1589,50–59,Rural,Never,Heavy,Yes,Black African,South African,Mixed,Low,Yes,No,High
+3348,70+,Rural,Never,Light,No,Black African,Namibian,Healthy,Low,Yes,No,Low
+3971,50–59,Rural,Former,Light,No,Black African,South African,High-fat,Low,No,No,Low
+4708,50–59,Rural,Former,Moderate,No,White,Other African,Healthy,Moderate,No,No,Low
+44,60–69,Rural,Current,Do not consume alcohol,No,Black African,Mozambican,Mixed,Moderate,Yes,No,Low
+3002,50–59,Rural,Never,Light,No,Mixed race,South African,Western,Moderate,No,No,Low
+211,60–69,Urban,Former,Heavy,No,Black African,Other African,Western,Low,No,No,Moderate
+678,70+,Urban,Never,Light,No,White,South African,Mixed,Moderate,No,No,Low
+355,60–69,Rural,Current,Moderate,No,Black African,South African,Mixed,High,No,No,Low
+1434,50–59,Rural,Never,Do not consume alcohol,No,Black African,South African,Western,Low,No,No,Low
+950,60–69,Urban,Current,Heavy,No,Black African,South African,Western,Low,No,No,Moderate
+2844,50–59,Urban,Never,Do not consume alcohol,Yes,Black African,South African,Mixed,Low,Yes,No,Moderate
+578,70+,Urban,Never,Light,No,White,South African,Healthy,High,No,No,Low
+3929,50–59,Rural,Former,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+545,Under 40,Rural,Never,Do not consume alcohol,No,Black African,South African,Healthy,High,No,No,Low
+368,60–69,Urban,Never,Do not consume alcohol,Yes,Black African,South African,Healthy,High,Yes,No,Low
+1613,70+,Rural,Never,Light,No,White,South African,Mixed,Moderate,No,No,Low
+3551,50–59,Rural,Never,Do not consume alcohol,No,Black African,Other African,High-fat,Moderate,No,No,Low
+3717,70+,Rural,Never,Light,No,Black African,South African,Mixed,Low,Yes,No,Moderate
+3780,60–69,Urban,Former,Do not consume alcohol,No,White,South African,Healthy,Moderate,No,No,Low
+136,70+,Rural,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+4481,50–59,Rural,Former,Moderate,No,Black African,South African,Mixed,High,No,No,Low
+1438,70+,Urban,Never,Moderate,No,Black African,South African,High-fat,Moderate,Yes,No,Moderate
+48,70+,Urban,Former,Light,No,Black African,South African,Healthy,High,Yes,No,Low
+1361,60–69,Urban,Never,Moderate,No,Black African,South African,Healthy,Moderate,No,No,Low
+735,70+,Urban,Never,Moderate,Yes,Black African,South African,Healthy,High,Yes,No,Moderate
+1535,50–59,Rural,Never,Do not consume alcohol,Yes,Black African,South African,Healthy,Low,No,No,Low
+2005,40–49,Rural,Never,Do not consume alcohol,No,White,South African,Healthy,High,Yes,No,Low
+3796,60–69,Urban,Current,Do not consume alcohol,Yes,Mixed race,South African,Western,Moderate,No,No,Low
+2520,50–59,Urban,Current,Heavy,No,White,South African,Mixed,Moderate,No,No,Low
+1973,70+,Urban,Never,Light,No,Asian,South African,Western,Low,No,No,Low
+997,70+,Rural,Never,Moderate,No,White,South African,Mixed,Moderate,No,No,Low
+62,60–69,Urban,Never,Light,No,Black African,Other African,Healthy,High,No,No,Low
+1109,50–59,Urban,Current,Moderate,No,Black African,South African,High-fat,Low,Yes,No,High
+2406,70+,Urban,Never,Light,No,Black African,South African,High-fat,Moderate,Yes,No,Moderate
+96,40–49,Rural,Current,Do not consume alcohol,Yes,Black African,South African,Mixed,Moderate,No,No,Low
+479,70+,Urban,Former,Moderate,No,Black African,South African,Western,Moderate,Yes,No,Moderate
+4360,70+,Rural,Never,Do not consume alcohol,No,Black African,South African,Healthy,High,No,No,Low
+4113,70+,Urban,Never,Do not consume alcohol,Yes,Black African,South African,Mixed,Low,No,No,Moderate
+3708,70+,Urban,Never,Light,No,Black African,South African,Western,Moderate,No,No,Low
+1102,Under 40,Urban,Current,Heavy,No,Black African,South African,High-fat,Low,Yes,No,Low
+2747,60–69,Urban,Never,Moderate,No,Mixed race,South African,Mixed,High,No,No,Low
+2171,70+,Urban,Current,Light,No,Black African,South African,Mixed,Moderate,Yes,No,Moderate
+323,50–59,Urban,Current,Heavy,No,Black African,South African,Mixed,Moderate,No,No,Low
+4255,60–69,Rural,Current,Light,No,Black African,South African,Healthy,High,No,Yes,Low
+3143,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+3538,50–59,Urban,Never,Light,No,Black African,South African,Western,Low,No,Yes,Low
+4926,50–59,Urban,Current,Moderate,No,Black African,South African,Western,Low,Yes,No,Moderate
+2925,60–69,Urban,Former,Moderate,No,Black African,South African,Mixed,Low,No,No,Low
+1150,50–59,Urban,Former,Light,No,Black African,South African,Western,Low,No,No,Low
+3618,60–69,Urban,Never,Moderate,No,Black African,South African,Western,Moderate,No,No,Low
+292,50–59,Rural,Current,Heavy,No,Black African,South African,Western,Moderate,Yes,No,Moderate
+3750,40–49,Urban,Former,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+3587,50–59,Urban,Never,Moderate,Yes,White,South African,Western,Low,Yes,No,Moderate
+534,50–59,Rural,Never,Moderate,Yes,Black African,South African,Western,Low,Yes,No,High
+3608,70+,Urban,Current,Heavy,No,Black African,Zimbabwean,High-fat,Low,Yes,No,High
+2649,60–69,Urban,Never,Moderate,No,Asian,South African,Mixed,Moderate,No,No,Low
+4811,70+,Urban,Never,Moderate,Yes,Black African,South African,Mixed,Moderate,No,No,Moderate
+1984,70+,Urban,Never,Light,No,Black African,South African,High-fat,Low,Yes,No,High
+2933,50–59,Urban,Never,Light,No,White,South African,Western,Moderate,Yes,No,Low
+1537,60–69,Rural,Former,Light,No,Black African,Mozambican,Mixed,Moderate,No,No,Low
+4535,70+,Urban,Never,Light,No,Black African,South African,High-fat,Low,Yes,No,High
+4173,50–59,Rural,Never,Light,No,Black African,South African,Healthy,Low,Yes,No,Low
+3361,50–59,Urban,Former,Moderate,No,Black African,South African,Healthy,High,No,No,Low
+3666,50–59,Urban,Never,Light,No,Black African,South African,Healthy,High,No,Yes,Low
+4006,60–69,Urban,Current,Heavy,No,Black African,South African,High-fat,Moderate,Yes,No,High
+3627,50–59,Urban,Never,Do not consume alcohol,No,White,South African,Mixed,High,No,Yes,Low
+587,50–59,Urban,Never,Do not consume alcohol,No,Black African,South African,Healthy,High,No,No,Low
+3257,50–59,Rural,Current,Moderate,No,White,South African,Western,Low,Yes,No,Moderate
+2299,70+,Urban,Current,Light,No,Black African,South African,Mixed,Low,No,No,Moderate
+3989,70+,Urban,Former,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+585,60–69,Rural,Never,Moderate,No,White,South African,Healthy,Moderate,No,No,Low
+2424,60–69,Urban,Never,Light,No,Black African,South African,Western,Low,No,No,Low
+1392,50–59,Urban,Never,Do not consume alcohol,No,White,South African,Mixed,High,Yes,No,Low
+4526,70+,Urban,Never,Do not consume alcohol,No,Mixed race,South African,Healthy,High,No,No,Low
+4921,70+,Urban,Current,Heavy,Yes,Black African,South African,Mixed,Low,Yes,No,High
+4801,60–69,Urban,Former,Light,No,Black African,Other African,High-fat,Low,Yes,No,Moderate
+3241,60–69,Rural,Never,Heavy,Yes,Mixed race,South African,Western,Low,Yes,No,High
+4282,40–49,Rural,Never,Light,No,Black African,Other African,Healthy,Moderate,No,No,Low
+3339,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Western,Moderate,No,Yes,Low
+3221,50–59,Urban,Never,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+2112,60–69,Rural,Never,Moderate,No,Black African,South African,Mixed,Low,No,No,Low
+1175,50–59,Rural,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+4863,50–59,Urban,Current,Light,Yes,Black African,South African,Healthy,Moderate,No,No,Low
+3812,60–69,Urban,Current,Do not consume alcohol,No,Black African,South African,Mixed,Low,No,No,Low
+1868,70+,Urban,Never,Moderate,Yes,White,South African,High-fat,Moderate,No,No,Moderate
+2615,60–69,Urban,Current,Moderate,No,Mixed race,Other African,Western,High,No,No,Low
+3867,60–69,Urban,Former,Heavy,Yes,Black African,South African,Mixed,Low,No,No,High
+4886,50–59,Urban,Never,Light,No,Black African,South African,Western,High,No,Yes,Low
+3779,40–49,Urban,Never,Light,No,Black African,South African,Healthy,High,No,No,Low
+3847,70+,Urban,Former,Do not consume alcohol,No,Black African,Namibian,Mixed,High,No,No,Low
+2417,60–69,Urban,Current,Heavy,No,Black African,South African,Western,Low,Yes,No,High
+71,60–69,Urban,Current,Moderate,No,Black African,South African,Healthy,High,No,No,Low
+4881,70+,Urban,Never,Light,No,Black African,South African,Western,High,No,No,Low
+1127,60–69,Rural,Current,Moderate,No,Mixed race,South African,Healthy,Low,Yes,No,Low
+4025,50–59,Rural,Never,Light,No,White,Other African,Mixed,Moderate,No,No,Low
+3251,60–69,Urban,Never,Light,No,Mixed race,Zimbabwean,Mixed,Moderate,No,No,Low
+3902,60–69,Urban,Former,Light,No,Black African,Botswana,Healthy,Low,No,No,Low
+1096,60–69,Urban,Never,Light,No,Black African,Other African,Mixed,Moderate,Yes,No,Low
+4546,60–69,Urban,Former,Heavy,Yes,Black African,South African,Western,Low,Yes,No,High
+1213,50–59,Rural,Former,Moderate,Yes,Black African,Zimbabwean,Healthy,Low,Yes,No,High
+3922,60–69,Urban,Current,Moderate,Yes,Black African,Mozambican,Mixed,Moderate,No,No,Moderate
+1426,40–49,Urban,Current,Moderate,No,Black African,South African,Western,Moderate,Yes,No,Low
+3067,70+,Urban,Never,Heavy,No,Black African,South African,Mixed,Moderate,Yes,No,Moderate
+4520,50–59,Urban,Never,Light,No,Black African,South African,Western,Low,No,No,Low
+2101,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Low,No,No,Low
+808,50–59,Urban,Current,Moderate,No,Black African,South African,Western,Low,No,No,Low
+4744,60–69,Rural,Current,Moderate,No,Black African,South African,Mixed,Low,Yes,No,Moderate
+3751,50–59,Rural,Current,Heavy,No,White,South African,High-fat,Moderate,Yes,No,Moderate
+1363,60–69,Urban,Never,Do not consume alcohol,No,Asian,South African,Mixed,High,No,No,Low
+2318,50–59,Urban,Former,Moderate,No,Black African,South African,Western,Low,No,No,Low
+4582,50–59,Urban,Never,Light,No,Black African,South African,Healthy,High,No,No,Low
+4742,60–69,Urban,Never,Heavy,No,Black African,South African,Western,High,No,No,Low
+1026,60–69,Urban,Former,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+3110,40–49,Urban,Current,Moderate,No,Black African,South African,High-fat,Low,Yes,No,Moderate
+2111,50–59,Urban,Never,Moderate,No,Black African,South African,Mixed,Moderate,Yes,No,Low
+1042,50–59,Urban,Never,Light,Yes,Black African,South African,Mixed,Moderate,No,No,Low
+1877,50–59,Urban,Former,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,Yes,No,Low
+882,50–59,Rural,Former,Light,No,Black African,Zimbabwean,Mixed,Moderate,No,No,Low
+4300,50–59,Rural,Current,Heavy,No,Black African,South African,High-fat,Moderate,Yes,No,High
+1193,50–59,Urban,Former,Light,No,Black African,Botswana,Healthy,High,No,No,Low
+4588,70+,Urban,Never,Moderate,No,Black African,South African,Healthy,High,No,No,Low
+4511,50–59,Urban,Former,Moderate,No,Black African,South African,Western,Low,Yes,No,Moderate
+3671,70+,Urban,Never,Moderate,Yes,Black African,Other African,Western,Moderate,No,No,Moderate
+625,70+,Urban,Never,Heavy,Yes,Asian,South African,High-fat,Low,Yes,No,High
+2797,60–69,Urban,Never,Heavy,No,Black African,South African,Mixed,Moderate,No,No,Low
+4292,50–59,Urban,Never,Light,Yes,White,Mozambican,Mixed,Low,No,No,Low
+4969,60–69,Urban,Never,Light,No,Black African,South African,High-fat,Moderate,Yes,No,Low
+234,50–59,Urban,Current,Heavy,Yes,Black African,South African,Western,Low,No,No,High
+4567,70+,Rural,Current,Moderate,No,Black African,South African,Mixed,High,No,No,Low
+1663,40–49,Rural,Former,Do not consume alcohol,Yes,Black African,South African,Mixed,Moderate,No,No,Low
+416,50–59,Urban,Former,Light,No,White,South African,Mixed,Moderate,No,No,Low
+4247,60–69,Urban,Never,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+2174,60–69,Urban,Never,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+1457,70+,Urban,Never,Do not consume alcohol,Yes,Black African,South African,Healthy,Moderate,No,Yes,Moderate
+747,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Low,No,No,Low
+18,60–69,Urban,Never,Light,No,Black African,Mozambican,Mixed,Moderate,No,No,Low
+1201,60–69,Rural,Never,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+1700,60–69,Urban,Former,Light,No,Black African,Mozambican,Mixed,Low,Yes,No,Moderate
+3254,70+,Rural,Current,Heavy,No,Black African,South African,Mixed,Low,Yes,No,High
+597,60–69,Urban,Never,Light,No,Black African,South African,Healthy,Moderate,No,No,Low
+3227,50–59,Rural,Never,Moderate,No,Black African,South African,Western,Low,No,No,Low
+4406,70+,Rural,Current,Heavy,No,Black African,South African,Western,Moderate,No,No,Moderate
+4720,60–69,Urban,Never,Heavy,No,Black African,South African,High-fat,Low,No,No,Moderate
+1506,50–59,Urban,Current,Heavy,No,Black African,South African,Mixed,Low,No,No,Low
+1413,60–69,Urban,Never,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+1966,60–69,Urban,Never,Moderate,No,Black African,South African,Healthy,High,No,No,Low
+372,60–69,Urban,Never,Light,Yes,Mixed race,Other African,Mixed,High,No,No,Low
+1341,60–69,Rural,Never,Do not consume alcohol,No,Black African,South African,Healthy,Low,Yes,No,Low
+599,50–59,Rural,Former,Do not consume alcohol,No,Black African,South African,High-fat,Low,Yes,No,Moderate
+239,50–59,Urban,Current,Heavy,No,Black African,South African,High-fat,Moderate,Yes,No,High
+3401,60–69,Rural,Never,Do not consume alcohol,Yes,Black African,South African,Healthy,High,No,Yes,Low
+2068,60–69,Urban,Current,Moderate,No,Black African,South African,Mixed,Low,No,No,Low
+811,60–69,Rural,Never,Heavy,No,Black African,South African,High-fat,Moderate,Yes,No,Moderate
+1095,70+,Urban,Never,Do not consume alcohol,No,Mixed race,Namibian,Mixed,Moderate,No,No,Low
+4325,50–59,Urban,Never,Moderate,No,Black African,South African,High-fat,Low,Yes,No,Moderate
+4761,50–59,Rural,Never,Heavy,No,Black African,South African,Western,Low,Yes,No,Moderate
+3677,60–69,Rural,Former,Heavy,No,Mixed race,South African,High-fat,Low,No,No,Low
+3465,60–69,Rural,Never,Light,No,Asian,Mozambican,Healthy,Moderate,No,Yes,Low
+3104,70+,Rural,Never,Light,No,Black African,Botswana,Mixed,Moderate,No,No,Low
+2750,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+2296,60–69,Urban,Never,Light,No,Black African,South African,Healthy,Low,No,No,Low
+4193,70+,Rural,Never,Light,No,Black African,Mozambican,Mixed,Moderate,No,No,Low
+3709,60–69,Rural,Never,Light,No,Black African,South African,Healthy,High,No,No,Low
+3019,50–59,Urban,Never,Light,No,Black African,Zimbabwean,Mixed,Moderate,No,No,Low
+4253,60–69,Rural,Never,Moderate,No,Black African,Zimbabwean,Western,Low,No,No,Low
+804,50–59,Urban,Current,Moderate,No,White,South African,Mixed,Low,No,No,Low
+4191,60–69,Urban,Never,Light,No,Black African,Other African,Western,Low,Yes,No,Moderate
+3706,60–69,Urban,Former,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+752,40–49,Urban,Current,Light,No,Black African,South African,Mixed,High,No,No,Low
+4645,60–69,Rural,Never,Light,No,Black African,Namibian,Mixed,High,No,No,Low
+2532,50–59,Urban,Never,Moderate,No,Black African,South African,Western,High,No,No,Low
+622,60–69,Urban,Former,Moderate,No,Asian,South African,High-fat,Moderate,No,No,Low
+2298,70+,Urban,Never,Do not consume alcohol,No,Black African,South African,Western,Low,No,No,Low
+3829,70+,Rural,Former,Moderate,No,Black African,South African,Western,Low,No,No,Moderate
+567,40–49,Urban,Current,Light,No,Black African,South African,Mixed,High,No,No,Low
+1136,70+,Urban,Former,Heavy,No,Black African,South African,Western,Low,Yes,No,High
+1205,60–69,Urban,Current,Heavy,No,Black African,South African,High-fat,Low,Yes,No,High
+1048,40–49,Urban,Current,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+52,50–59,Rural,Never,Do not consume alcohol,No,White,South African,Mixed,Moderate,No,No,Low
+3652,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+1045,60–69,Urban,Never,Moderate,No,Black African,South African,Western,High,No,No,Low
+2182,50–59,Rural,Never,Light,No,White,South African,Mixed,High,No,Yes,Low
+2689,70+,Urban,Never,Light,Yes,Black African,South African,Mixed,High,No,No,Low
+535,50–59,Urban,Former,Light,No,Mixed race,South African,Mixed,Low,No,No,Low
+3185,50–59,Urban,Current,Moderate,No,Black African,Botswana,Healthy,Moderate,No,Yes,Low
+3858,60–69,Rural,Never,Moderate,No,Black African,South African,Healthy,Moderate,No,Yes,Low
+444,60–69,Urban,Never,Light,No,Black African,South African,Mixed,Moderate,Yes,No,Low
+3605,70+,Rural,Never,Moderate,No,Black African,South African,Western,Low,No,No,Low
+196,60–69,Rural,Never,Light,Yes,Black African,South African,Mixed,High,No,No,Low
+1116,60–69,Urban,Never,Light,No,Black African,South African,Western,Low,No,No,Low
+766,50–59,Urban,Current,Light,Yes,Black African,Zimbabwean,Mixed,High,No,No,Low
+1946,50–59,Rural,Never,Do not consume alcohol,No,Black African,South African,High-fat,Low,No,No,Low
+3248,50–59,Urban,Current,Light,No,Black African,South African,Western,High,No,No,Low
+3003,50–59,Urban,Former,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+1433,70+,Urban,Never,Do not consume alcohol,No,Black African,South African,Western,Low,Yes,No,Moderate
+4201,60–69,Urban,Former,Do not consume alcohol,Yes,Black African,South African,Mixed,High,No,Yes,Moderate
+3096,70+,Urban,Never,Heavy,No,White,South African,High-fat,High,Yes,No,Moderate
+2923,60–69,Rural,Current,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+645,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+1050,70+,Urban,Never,Do not consume alcohol,Yes,Black African,South African,Mixed,Moderate,No,No,Low
+3746,60–69,Urban,Current,Heavy,No,Black African,South African,Mixed,Moderate,Yes,No,Moderate
+4094,60–69,Rural,Former,Do not consume alcohol,No,Black African,South African,Healthy,Moderate,No,No,Low
+4404,60–69,Urban,Current,Moderate,No,Black African,South African,Western,High,No,No,Low
+121,70+,Urban,Never,Do not consume alcohol,No,Black African,South African,Healthy,High,No,No,Low
+2053,50–59,Urban,Never,Light,No,Black African,South African,Healthy,Moderate,No,No,Low
+4259,60–69,Rural,Current,Heavy,No,Black African,South African,Western,Low,Yes,No,High
+4889,60–69,Urban,Never,Light,Yes,Black African,South African,Mixed,Moderate,No,No,Low
+4335,60–69,Rural,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+4692,60–69,Urban,Never,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+135,50–59,Urban,Never,Moderate,No,Black African,South African,Western,Moderate,Yes,Yes,Moderate
+2461,60–69,Urban,Never,Do not consume alcohol,No,Asian,South African,Mixed,Moderate,Yes,No,Low
+1955,50–59,Rural,Current,Moderate,No,Black African,Namibian,High-fat,High,No,No,Low
+2464,50–59,Urban,Former,Light,No,White,Other African,Mixed,Moderate,No,No,Low
+185,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Low,No,No,Low
+1393,70+,Rural,Never,Do not consume alcohol,No,Black African,South African,Healthy,Moderate,No,No,Low
+2277,70+,Rural,Former,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+512,60–69,Urban,Former,Heavy,No,White,South African,High-fat,High,No,No,Low
+4730,60–69,Urban,Former,Heavy,No,Black African,South African,High-fat,Moderate,No,No,Low
+4055,50–59,Rural,Never,Light,No,Black African,South African,High-fat,Moderate,No,No,Low
+3138,50–59,Urban,Never,Light,No,White,South African,Mixed,Moderate,Yes,No,Low
+2670,60–69,Urban,Never,Light,Yes,White,South African,Western,Moderate,No,No,Low
+4774,60–69,Urban,Former,Moderate,No,Black African,South African,Western,Low,Yes,No,Moderate
+4862,50–59,Urban,Former,Moderate,No,Black African,South African,High-fat,High,No,No,Low
+2118,50–59,Urban,Current,Light,No,Black African,South African,Western,Moderate,No,No,Low
+252,70+,Urban,Former,Moderate,No,Black African,South African,High-fat,Moderate,No,No,Low
+3527,60–69,Rural,Former,Light,Yes,Black African,South African,Mixed,Low,Yes,No,High
+3560,50–59,Urban,Never,Moderate,No,Black African,South African,Healthy,Moderate,No,No,Low
+4012,40–49,Rural,Never,Light,Yes,Black African,South African,Mixed,Low,No,No,Low
+1508,70+,Urban,Current,Heavy,No,Black African,South African,Western,Low,No,No,High
+123,70+,Urban,Former,Do not consume alcohol,No,White,South African,Mixed,Moderate,No,No,Low
+4260,50–59,Rural,Never,Light,No,Black African,South African,Mixed,High,No,No,Low
+3334,60–69,Rural,Current,Moderate,No,Black African,Zimbabwean,High-fat,Moderate,No,No,Low
+1872,60–69,Urban,Current,Do not consume alcohol,No,White,South African,Western,Low,Yes,No,Moderate
+3693,70+,Urban,Never,Light,Yes,Black African,South African,High-fat,Low,Yes,No,High
+568,50–59,Urban,Never,Light,No,Black African,South African,High-fat,Low,Yes,No,Low
+1372,70+,Rural,Never,Light,No,Black African,South African,Western,Low,No,No,Low
+3186,70+,Urban,Never,Light,Yes,Asian,South African,Western,Low,No,No,Low
+3956,50–59,Urban,Never,Light,No,White,South African,Mixed,Moderate,No,No,Low
+1057,60–69,Rural,Never,Moderate,No,Black African,Botswana,Western,High,No,No,Low
+857,50–59,Urban,Never,Moderate,No,Asian,South African,Mixed,Moderate,No,No,Low
+3839,50–59,Urban,Former,Light,No,Asian,South African,Healthy,Moderate,No,No,Low
+2861,50–59,Rural,Former,Moderate,No,Black African,South African,Mixed,High,Yes,No,Low
+4770,70+,Urban,Never,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+777,50–59,Urban,Never,Heavy,No,Black African,South African,High-fat,Moderate,No,No,Low
+721,60–69,Rural,Never,Do not consume alcohol,No,White,South African,Healthy,Low,Yes,No,Low
+2711,50–59,Urban,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+2655,50–59,Urban,Never,Light,Yes,Black African,South African,Mixed,Moderate,No,No,Low
+4878,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Western,Moderate,No,No,Low
+603,70+,Urban,Former,Light,No,Black African,Botswana,Mixed,Moderate,No,No,Low
+3823,60–69,Rural,Current,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+1245,50–59,Urban,Former,Moderate,Yes,White,South African,Western,Low,No,No,Low
+4846,60–69,Rural,Former,Moderate,No,White,Zimbabwean,Mixed,Moderate,No,No,Low
+4842,60–69,Rural,Never,Light,No,Black African,South African,Mixed,Low,No,No,Low
+319,60–69,Urban,Former,Moderate,No,White,Botswana,Western,Moderate,No,No,Low
+829,50–59,Rural,Never,Moderate,Yes,Black African,Botswana,High-fat,High,Yes,No,Moderate
+3264,70+,Urban,Never,Do not consume alcohol,No,Mixed race,South African,Western,Low,No,No,Low
+275,50–59,Rural,Former,Moderate,No,White,South African,Western,Moderate,Yes,No,Low
+2665,60–69,Rural,Former,Light,No,Black African,South African,Mixed,High,No,Yes,Low
+550,50–59,Rural,Never,Light,No,Black African,South African,Mixed,Low,No,No,Low
+3642,60–69,Rural,Former,Moderate,No,Black African,South African,Mixed,Low,No,No,Low
+4054,60–69,Rural,Current,Heavy,No,White,South African,High-fat,Moderate,Yes,No,Moderate
+4893,50–59,Urban,Former,Heavy,No,Black African,South African,High-fat,Low,Yes,No,High
+2935,70+,Urban,Former,Light,No,Black African,South African,Healthy,Moderate,No,No,Low
+606,70+,Rural,Current,Light,No,Black African,South African,High-fat,Low,Yes,No,High
+897,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+528,60–69,Urban,Current,Do not consume alcohol,No,Asian,South African,Mixed,High,No,No,Low
+4608,60–69,Urban,Current,Heavy,No,Black African,South African,Mixed,Moderate,Yes,No,Moderate
+2348,50–59,Urban,Never,Light,No,Black African,South African,Western,Moderate,No,No,Low
+3440,60–69,Urban,Former,Heavy,No,Black African,South African,High-fat,High,No,No,Low
+4999,70+,Urban,Never,Moderate,Yes,Black African,South African,Mixed,Low,No,No,Moderate
+4827,60–69,Rural,Former,Moderate,No,Black African,South African,High-fat,Moderate,Yes,No,Moderate
+3923,60–69,Rural,Never,Light,No,White,South African,Healthy,High,Yes,No,Low
+299,70+,Urban,Never,Moderate,No,Black African,South African,High-fat,Low,Yes,No,High
+2120,60–69,Urban,Never,Moderate,No,White,South African,Mixed,Moderate,No,No,Low
+2537,70+,Urban,Former,Moderate,Yes,Black African,South African,Mixed,Low,No,No,High
+4204,50–59,Urban,Never,Do not consume alcohol,No,Black African,South African,Healthy,High,No,No,Low
+3255,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Healthy,Moderate,No,No,Low
+3726,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Western,Low,Yes,No,Low
+1261,60–69,Urban,Current,Do not consume alcohol,No,Black African,South African,High-fat,Low,No,No,Moderate
+1559,70+,Urban,Former,Light,No,Black African,South African,Healthy,High,No,No,Low
+3270,60–69,Rural,Never,Moderate,No,White,South African,Mixed,Moderate,No,No,Low
+4047,70+,Urban,Never,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+757,60–69,Rural,Never,Moderate,No,Black African,Other African,High-fat,Moderate,No,No,Low
+1011,70+,Urban,Never,Light,No,Black African,South African,Healthy,Moderate,No,Yes,Low
+2795,60–69,Urban,Never,Moderate,No,Black African,South African,Western,Moderate,No,No,Low
+2906,70+,Rural,Never,Do not consume alcohol,No,White,South African,Mixed,Moderate,No,No,Low
+1871,50–59,Urban,Never,Do not consume alcohol,No,Black African,South African,Western,Low,Yes,No,Low
+2230,70+,Urban,Former,Heavy,Yes,Black African,Botswana,Western,Low,No,No,High
+1174,60–69,Rural,Never,Moderate,No,White,Zimbabwean,Mixed,Moderate,Yes,No,Low
+1833,70+,Urban,Never,Moderate,No,Black African,South African,Western,Moderate,Yes,No,Moderate
+377,70+,Rural,Current,Moderate,No,Black African,South African,Healthy,Moderate,No,No,Low
+3854,50–59,Urban,Former,Moderate,No,Black African,South African,Western,Low,No,No,Low
+3617,50–59,Urban,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+799,60–69,Urban,Never,Do not consume alcohol,No,Black African,Other African,Healthy,High,No,No,Low
+379,70+,Rural,Former,Light,No,Black African,Mozambican,Healthy,High,No,No,Low
+1159,70+,Rural,Never,Do not consume alcohol,No,Black African,South African,Healthy,High,Yes,No,Low
+3820,50–59,Urban,Current,Heavy,No,Black African,South African,High-fat,Moderate,No,No,Low
+2793,50–59,Rural,Never,Do not consume alcohol,Yes,Black African,Other African,Mixed,Moderate,No,No,Low
+2241,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,High,No,No,Low
+4036,70+,Rural,Former,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+2663,60–69,Urban,Never,Do not consume alcohol,Yes,Black African,South African,Western,Moderate,No,No,Low
+4013,50–59,Urban,Never,Light,No,Black African,Mozambican,Healthy,High,No,No,Low
+2958,60–69,Urban,Never,Heavy,Yes,Black African,Zimbabwean,High-fat,Moderate,No,No,High
+3928,60–69,Rural,Former,Light,No,Black African,Namibian,Mixed,Moderate,No,No,Low
+1039,60–69,Urban,Current,Do not consume alcohol,No,White,South African,High-fat,Moderate,No,No,Low
+3260,70+,Urban,Former,Light,No,White,South African,High-fat,Low,Yes,No,Moderate
+1345,70+,Rural,Current,Light,No,Black African,South African,Mixed,Low,Yes,No,High
+2506,50–59,Rural,Never,Light,No,Black African,Mozambican,Healthy,Moderate,No,No,Low
+1722,60–69,Urban,Former,Moderate,No,Black African,South African,Healthy,High,No,No,Low
+4664,50–59,Urban,Former,Heavy,No,White,South African,Western,High,No,No,Low
+176,70+,Rural,Current,Moderate,No,Black African,South African,Mixed,Moderate,Yes,No,Moderate
+4894,60–69,Urban,Never,Light,No,White,South African,Healthy,Moderate,No,No,Low
+1910,60–69,Urban,Current,Heavy,No,Black African,South African,Western,Low,No,No,Moderate
+46,50–59,Urban,Former,Moderate,Yes,Black African,South African,Western,Moderate,Yes,No,High
+3410,70+,Rural,Former,Heavy,No,Black African,South African,Western,High,No,No,Low
+4675,70+,Urban,Never,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+1076,50–59,Urban,Never,Do not consume alcohol,No,White,South African,Mixed,Moderate,No,No,Low
+2830,50–59,Rural,Never,Light,No,Black African,South African,Healthy,Moderate,No,No,Low
+1505,60–69,Urban,Current,Heavy,No,White,Zimbabwean,Mixed,High,Yes,No,Low
+2310,70+,Urban,Former,Light,No,Black African,South African,Mixed,Low,No,No,Low
+1437,60–69,Urban,Current,Moderate,No,Black African,South African,Healthy,Moderate,No,No,Low
+2419,60–69,Rural,Never,Do not consume alcohol,No,Black African,South African,Mixed,Low,No,No,Low
+3987,60–69,Rural,Never,Light,Yes,Black African,South African,Mixed,Low,Yes,No,High
+3099,60–69,Urban,Never,Do not consume alcohol,No,White,South African,Mixed,Moderate,Yes,No,Low
+4589,50–59,Rural,Former,Moderate,No,Black African,Namibian,Mixed,Moderate,Yes,No,Low
+284,50–59,Rural,Never,Light,Yes,Black African,Mozambican,Healthy,High,No,No,Low
+4919,70+,Urban,Never,Light,No,Black African,South African,Western,Low,Yes,No,Moderate
+843,50–59,Urban,Current,Do not consume alcohol,No,Black African,South African,Healthy,Low,No,No,Low
+1514,40–49,Urban,Former,Moderate,No,Black African,Zimbabwean,Healthy,Moderate,No,No,Low
+1169,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Western,Moderate,Yes,No,Low
+1593,60–69,Rural,Former,Heavy,Yes,Black African,South African,Western,Low,Yes,No,High
+3461,70+,Rural,Current,Heavy,No,Black African,South African,Western,Low,Yes,No,High
+3166,40–49,Rural,Current,Light,No,White,South African,Mixed,Moderate,No,No,Low
+2285,50–59,Rural,Current,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+3576,60–69,Rural,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+4871,70+,Rural,Former,Light,No,Asian,South African,Healthy,Moderate,No,No,Low
+2306,70+,Urban,Never,Moderate,No,Black African,South African,Mixed,High,No,No,Low
+953,50–59,Rural,Current,Heavy,No,Black African,South African,Western,Low,No,No,Moderate
+4943,60–69,Rural,Former,Moderate,No,Black African,South African,Mixed,Low,No,No,Low
+3054,50–59,Urban,Current,Heavy,No,Black African,South African,High-fat,Low,Yes,No,High
+4560,70+,Urban,Current,Heavy,Yes,Black African,South African,Mixed,Low,No,No,High
+2686,60–69,Rural,Never,Light,No,Black African,Botswana,Healthy,Low,No,No,Low
+1490,70+,Rural,Current,Heavy,No,Black African,South African,Western,Moderate,Yes,No,High
+928,60–69,Urban,Never,Light,No,Black African,South African,Western,Low,No,No,Low
+1210,70+,Urban,Current,Moderate,No,Black African,South African,Mixed,Low,No,No,Moderate
+3974,60–69,Urban,Former,Light,No,Black African,Zimbabwean,Mixed,Low,Yes,No,Moderate
+3546,60–69,Urban,Never,Heavy,No,Black African,South African,High-fat,Low,Yes,No,High
+4362,50–59,Urban,Never,Do not consume alcohol,No,Black African,South African,Western,Low,Yes,No,Low
+1922,70+,Rural,Never,Light,Yes,Black African,South African,Mixed,Moderate,No,No,Moderate
+352,70+,Urban,Current,Moderate,No,Black African,South African,Western,Low,Yes,No,High
+4899,70+,Urban,Current,Moderate,Yes,Black African,South African,Mixed,Moderate,No,No,High
+3394,60–69,Urban,Never,Light,No,Asian,South African,Healthy,High,No,No,Low
+2722,50–59,Urban,Never,Do not consume alcohol,No,White,South African,Healthy,Moderate,No,No,Low
+4982,70+,Urban,Never,Light,No,Black African,South African,Healthy,Low,Yes,No,Low
+719,50–59,Urban,Former,Moderate,Yes,Black African,South African,Mixed,Low,Yes,No,High
+2703,70+,Rural,Never,Light,No,Black African,Namibian,Mixed,Low,No,No,Low
+2723,50–59,Urban,Former,Light,No,Black African,South African,Western,Moderate,Yes,No,Low
+4562,70+,Urban,Current,Do not consume alcohol,No,White,South African,Mixed,Low,Yes,No,Moderate
+309,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Healthy,High,No,No,Low
+1676,60–69,Urban,Never,Light,No,Black African,Other African,High-fat,Moderate,No,No,Low
+834,50–59,Urban,Never,Light,No,Black African,South African,Western,Moderate,No,No,Low
+367,60–69,Urban,Current,Moderate,No,Black African,South African,Mixed,Low,No,No,Low
+4507,70+,Rural,Current,Heavy,No,Black African,South African,Western,Low,No,No,High
+2079,60–69,Urban,Former,Light,No,White,Zimbabwean,Healthy,High,No,No,Low
+4039,60–69,Rural,Never,Light,No,Black African,South African,Healthy,High,No,No,Low
+4847,40–49,Rural,Former,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+4480,70+,Urban,Never,Do not consume alcohol,No,Black African,South African,Western,Low,No,No,Low
+1747,70+,Urban,Current,Light,Yes,Black African,South African,Healthy,Low,Yes,No,High
+20,40–49,Rural,Never,Do not consume alcohol,No,Black African,Other African,Western,Low,No,No,Low
+1323,60–69,Urban,Never,Moderate,No,Black African,South African,Mixed,Moderate,Yes,No,Low
+3568,70+,Urban,Never,Do not consume alcohol,No,Black African,South African,High-fat,Moderate,No,No,Low
+2522,70+,Urban,Current,Moderate,No,White,Other African,Mixed,High,No,No,Low
+219,50–59,Rural,Never,Light,No,Black African,Mozambican,Mixed,Moderate,Yes,No,Low
+1488,40–49,Rural,Former,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+439,40–49,Urban,Never,Do not consume alcohol,No,Mixed race,South African,High-fat,Low,Yes,No,Low
+4175,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Healthy,Moderate,No,No,Low
+2751,70+,Urban,Never,Moderate,No,Black African,South African,Western,Low,No,No,Low
+3289,50–59,Urban,Never,Light,No,Black African,South African,Mixed,Low,No,No,Low
+3434,60–69,Urban,Current,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+2526,60–69,Rural,Former,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+4651,60–69,Urban,Never,Do not consume alcohol,No,Mixed race,Zimbabwean,Mixed,Moderate,No,No,Low
+3689,70+,Rural,Never,Moderate,Yes,Black African,South African,Mixed,High,No,No,Moderate
+2764,50–59,Urban,Never,Light,Yes,White,South African,Mixed,Moderate,No,No,Low
+803,60–69,Urban,Former,Light,Yes,Black African,South African,High-fat,Low,No,No,High
+2998,50–59,Rural,Former,Light,Yes,Black African,Namibian,Mixed,Low,Yes,No,High
+2229,40–49,Urban,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+4786,60–69,Urban,Never,Moderate,No,Black African,South African,Mixed,Moderate,Yes,No,Low
+2078,70+,Urban,Current,Moderate,No,Black African,Other African,Healthy,Moderate,No,No,Low
+583,60–69,Urban,Former,Moderate,No,Black African,Mozambican,Healthy,High,No,No,Low
+204,70+,Urban,Current,Moderate,No,Black African,South African,Mixed,High,No,No,Low
+4347,60–69,Urban,Never,Heavy,No,Black African,South African,Western,Moderate,No,No,Low
+3479,70+,Rural,Current,Moderate,Yes,Black African,South African,Western,Low,Yes,No,High
+2930,70+,Urban,Never,Do not consume alcohol,No,Black African,Botswana,Healthy,High,No,Yes,Low
+3086,60–69,Urban,Current,Heavy,No,Black African,South African,High-fat,High,No,No,Moderate
+1019,60–69,Urban,Former,Do not consume alcohol,Yes,Black African,South African,Healthy,Moderate,No,No,Low
+1584,60–69,Urban,Former,Do not consume alcohol,No,Black African,Botswana,Healthy,Moderate,Yes,No,Low
+1033,60–69,Urban,Current,Moderate,No,Black African,South African,Healthy,High,No,No,Low
+1719,70+,Rural,Never,Light,No,Black African,South African,Western,Low,No,No,Low
+1282,60–69,Rural,Never,Light,No,Black African,South African,Healthy,High,No,No,Low
+2499,70+,Rural,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+3351,50–59,Urban,Never,Moderate,No,Black African,South African,Healthy,High,Yes,No,Low
+518,50–59,Rural,Never,Light,No,Black African,Mozambican,Mixed,Moderate,No,No,Low
+1748,60–69,Urban,Never,Light,No,Black African,Namibian,Healthy,Moderate,No,No,Low
+4653,60–69,Rural,Current,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+3733,40–49,Urban,Current,Moderate,No,Black African,South African,Western,Moderate,Yes,No,Low
+669,Under 40,Urban,Former,Light,No,Black African,Botswana,High-fat,Low,No,No,Low
+4060,60–69,Rural,Never,Moderate,No,Black African,South African,Mixed,Low,Yes,No,Moderate
+3027,60–69,Urban,Current,Do not consume alcohol,No,Black African,South African,Healthy,High,No,No,Low
+4933,70+,Rural,Never,Do not consume alcohol,No,Black African,Other African,Mixed,High,No,No,Low
+3287,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+2651,50–59,Urban,Never,Heavy,No,Black African,Zimbabwean,Western,High,No,No,Low
+4454,60–69,Urban,Never,Moderate,Yes,Asian,Botswana,Healthy,Moderate,No,No,Low
+3193,70+,Rural,Never,Moderate,No,White,Namibian,Mixed,High,No,No,Low
+2125,60–69,Rural,Current,Moderate,No,Mixed race,South African,Mixed,Moderate,Yes,No,Low
+3376,50–59,Rural,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+3393,60–69,Urban,Current,Do not consume alcohol,No,Asian,South African,Mixed,High,No,No,Low
+3486,50–59,Rural,Never,Light,Yes,Black African,South African,Healthy,High,No,No,Low
+760,70+,Urban,Former,Light,Yes,Black African,Mozambican,Mixed,Moderate,No,No,Moderate
+3380,50–59,Urban,Never,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+4441,40–49,Urban,Current,Light,No,White,South African,Mixed,Moderate,No,No,Low
+2527,60–69,Rural,Former,Light,Yes,Black African,South African,Healthy,Moderate,No,No,Low
+4859,60–69,Urban,Never,Light,No,Mixed race,South African,Western,Moderate,Yes,No,Low
+908,70+,Urban,Former,Heavy,No,White,South African,High-fat,Low,No,No,Moderate
+2684,70+,Urban,Never,Do not consume alcohol,No,Black African,South African,Western,Low,Yes,No,Moderate
+215,60–69,Urban,Former,Moderate,No,Black African,South African,High-fat,Low,Yes,No,High
+3332,40–49,Urban,Former,Heavy,No,Black African,South African,High-fat,Low,Yes,No,Moderate
+4459,40–49,Urban,Never,Light,No,Black African,South African,Healthy,Low,No,No,Low
+694,60–69,Urban,Current,Moderate,No,Black African,South African,High-fat,High,No,No,Low
+1504,60–69,Rural,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+2415,70+,Urban,Current,Moderate,No,Black African,South African,Western,Low,No,No,Moderate
+2119,Under 40,Rural,Former,Light,No,Black African,Botswana,Healthy,Moderate,No,No,Low
+3859,50–59,Urban,Former,Moderate,No,Black African,South African,Mixed,Low,No,No,Low
+2463,60–69,Urban,Former,Do not consume alcohol,No,White,Botswana,Healthy,Moderate,No,No,Low
+3636,60–69,Rural,Never,Moderate,No,Black African,South African,Mixed,High,No,No,Low
+4106,60–69,Rural,Never,Moderate,No,Black African,South African,High-fat,Low,No,No,Low
+4479,40–49,Rural,Current,Heavy,No,Black African,South African,High-fat,Moderate,No,No,Low
+197,50–59,Rural,Never,Moderate,Yes,White,South African,Mixed,High,No,No,Low
+4668,70+,Urban,Never,Light,No,Black African,South African,Mixed,Low,Yes,No,Moderate
+1544,50–59,Urban,Current,Moderate,No,Black African,South African,Mixed,Low,Yes,No,Moderate
+1331,70+,Urban,Former,Do not consume alcohol,Yes,White,South African,Mixed,High,No,No,Low
+880,70+,Urban,Current,Heavy,No,Black African,South African,High-fat,Low,Yes,No,High
+4503,40–49,Urban,Former,Light,No,Asian,South African,Mixed,Moderate,No,No,Low
+3502,50–59,Urban,Former,Light,No,Black African,South African,High-fat,High,No,No,Low
+3895,50–59,Urban,Former,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+4991,40–49,Urban,Never,Light,No,Black African,Other African,Healthy,Moderate,No,No,Low
+888,50–59,Urban,Former,Do not consume alcohol,No,Black African,South African,Healthy,Low,No,No,Low
+1346,40–49,Urban,Never,Do not consume alcohol,No,Black African,South African,Western,Moderate,No,No,Low
+69,60–69,Urban,Never,Light,Yes,White,Botswana,Western,Moderate,No,No,Low
+4211,60–69,Rural,Never,Do not consume alcohol,No,Black African,South African,High-fat,Moderate,No,No,Low
+1816,50–59,Rural,Never,Light,No,Black African,Botswana,Healthy,High,Yes,No,Low
+569,40–49,Urban,Former,Light,No,Black African,South African,Mixed,Low,No,No,Low
+2168,50–59,Rural,Former,Heavy,No,Black African,South African,Western,Low,Yes,No,Moderate
+97,60–69,Rural,Never,Do not consume alcohol,No,Mixed race,South African,Healthy,Moderate,No,No,Low
+4182,50–59,Urban,Former,Heavy,No,Black African,Namibian,High-fat,Low,Yes,No,High
+3354,60–69,Rural,Current,Heavy,No,Black African,South African,Healthy,Moderate,No,No,Low
+140,50–59,Rural,Never,Do not consume alcohol,No,Black African,South African,Mixed,Moderate,No,No,Low
+4955,60–69,Urban,Former,Light,No,Black African,Mozambican,Healthy,Moderate,Yes,No,Low
+2603,50–59,Urban,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+4024,70+,Urban,Never,Do not consume alcohol,No,Black African,South African,Healthy,High,No,No,Low
+4773,60–69,Urban,Former,Moderate,No,Black African,South African,Mixed,High,No,No,Low
+1607,60–69,Rural,Never,Light,No,Black African,South African,Western,Low,No,No,Low
+1630,70+,Urban,Never,Do not consume alcohol,No,Black African,South African,Western,Low,Yes,No,Moderate
+1540,Under 40,Urban,Former,Light,No,Black African,South African,Mixed,High,No,No,Low
+1695,60–69,Urban,Never,Heavy,Yes,Black African,South African,Mixed,Moderate,No,No,Moderate
+2060,60–69,Rural,Never,Do not consume alcohol,No,Black African,South African,Western,High,No,No,Low
+464,60–69,Urban,Never,Do not consume alcohol,No,Black African,Namibian,Western,High,Yes,No,Low
+2331,60–69,Rural,Never,Light,No,Black African,South African,Mixed,Moderate,Yes,No,Low
+3044,60–69,Urban,Former,Moderate,No,Black African,South African,Mixed,Moderate,No,Yes,Low
+4735,60–69,Urban,Former,Light,No,Black African,South African,Mixed,Low,Yes,No,Moderate
+595,70+,Urban,Former,Moderate,No,Black African,South African,Healthy,High,No,No,Low
+3815,50–59,Rural,Never,Do not consume alcohol,Yes,Black African,South African,Mixed,Moderate,No,Yes,Low
+626,50–59,Urban,Never,Light,No,White,South African,Western,Low,No,No,Low
+451,60–69,Rural,Former,Light,No,White,South African,Mixed,Moderate,No,No,Low
+1500,60–69,Urban,Former,Moderate,No,Black African,South African,Mixed,High,No,No,Low
+2457,50–59,Urban,Never,Light,No,Black African,South African,Healthy,Moderate,No,No,Low
+4723,60–69,Urban,Current,Light,No,Black African,Zimbabwean,Mixed,Low,No,No,Low
+2985,40–49,Urban,Never,Light,Yes,Black African,South African,Mixed,Moderate,No,No,Low
+1570,50–59,Rural,Current,Light,No,Black African,Mozambican,Mixed,Moderate,Yes,No,Low
+1035,50–59,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Low,Yes,No,Low
+3519,70+,Rural,Never,Do not consume alcohol,No,Black African,South African,Healthy,High,No,No,Low
+1558,50–59,Urban,Never,Light,No,Mixed race,South African,Mixed,Moderate,No,No,Low
+3625,70+,Urban,Never,Do not consume alcohol,Yes,Black African,South African,Healthy,High,No,No,Low
+4665,70+,Urban,Never,Light,Yes,Black African,South African,High-fat,Low,Yes,No,High
+151,60–69,Rural,Former,Heavy,Yes,Black African,Other African,Western,Low,Yes,No,High
+1421,60–69,Urban,Former,Light,No,Black African,South African,High-fat,Low,No,No,Low
+2012,50–59,Urban,Never,Moderate,No,Black African,South African,Western,Moderate,Yes,No,Low
+2687,60–69,Urban,Current,Light,No,Black African,South African,Mixed,Low,No,No,Low
+1787,60–69,Urban,Never,Light,No,Black African,South African,Healthy,High,No,No,Low
+89,50–59,Urban,Never,Moderate,No,White,South African,Mixed,Low,Yes,No,Low
+458,50–59,Urban,Current,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+1306,50–59,Urban,Former,Light,No,Black African,South African,Healthy,Moderate,No,No,Low
+2926,60–69,Urban,Never,Do not consume alcohol,No,White,Other African,Healthy,Low,Yes,No,Low
+3271,60–69,Rural,Never,Light,No,Black African,Botswana,Mixed,Moderate,No,No,Low
+3228,70+,Urban,Former,Heavy,No,White,South African,High-fat,Moderate,No,No,Low
+1989,50–59,Urban,Never,Heavy,No,Black African,South African,Western,Low,Yes,No,Moderate
+3755,50–59,Urban,Former,Moderate,No,Black African,South African,Mixed,Moderate,No,No,Low
+3647,60–69,Urban,Former,Moderate,No,Mixed race,Zimbabwean,Western,Low,Yes,No,Low
+832,50–59,Urban,Never,Light,No,Black African,Other African,Western,Moderate,No,No,Low
+240,70+,Rural,Former,Do not consume alcohol,No,Black African,Other African,Mixed,Moderate,No,No,Low
+4682,50–59,Rural,Current,Moderate,No,Black African,South African,Western,Moderate,No,No,Low
+3023,50–59,Rural,Former,Moderate,No,White,South African,Mixed,Moderate,No,No,Low
+3149,60–69,Rural,Current,Do not consume alcohol,No,Black African,South African,Mixed,High,Yes,No,Low
+1947,60–69,Rural,Current,Moderate,No,Black African,South African,Western,High,No,No,Low
+2776,60–69,Urban,Never,Light,No,Black African,South African,Western,Low,Yes,No,Moderate
+193,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Mixed,Low,No,No,Low
+4850,60–69,Rural,Never,Light,No,Black African,South African,Mixed,Moderate,No,No,Low
+4940,40–49,Urban,Never,Heavy,No,Black African,South African,High-fat,Low,Yes,No,Low
+945,70+,Urban,Former,Moderate,No,Black African,South African,Mixed,Low,No,No,Low
+1269,50–59,Urban,Former,Heavy,No,White,South African,High-fat,High,Yes,Yes,Moderate
+4232,70+,Urban,Never,Do not consume alcohol,No,Black African,South African,High-fat,High,Yes,No,Low
+2308,60–69,Urban,Never,Light,Yes,Black African,South African,Mixed,Moderate,No,No,Low
+4425,50–59,Urban,Current,Heavy,No,Black African,South African,Western,Low,No,No,Moderate
+4712,60–69,Urban,Never,Do not consume alcohol,No,Black African,South African,Healthy,Moderate,Yes,No,Low
+2314,60–69,Urban,Never,Do not consume alcohol,Yes,Black African,South African,Healthy,Moderate,No,No,Low
+3215,70+,Urban,Never,Do not consume alcohol,No,Black African,South African,Healthy,Low,Yes,No,Low
+2733,60–69,Urban,Current,Moderate,No,Black African,South African,Healthy,High,No,No,Low
+1927,Under 40,Rural,Never,Moderate,No,Black African,South African,Mixed,Low,No,No,Low
